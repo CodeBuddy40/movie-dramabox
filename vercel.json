@@ -2,7 +2,8 @@
   "rewrites": [
     {
       "source": "/api-dramabox/(.*)",
-      "destination": "https://sapi.dramabox.be/api/$1"
+      "destination": "https://sapi.dramabox.be/$1"
     }
   ]
 }
+
